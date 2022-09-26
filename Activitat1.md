@@ -1,2 +1,2 @@
 # Cas pràctic 1
-!(fotodrive.png)
+![](fotodrive.png)
