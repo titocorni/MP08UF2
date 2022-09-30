@@ -79,3 +79,17 @@ També podem enregistrar videotrucades de Meet i tenim una VPN per a Android i i
 # Documents
 
 1. El primer pas sira anar a on passa (Nou).
+
+![image](Documents-1.png)
+
+2. El següent sira posa el nom.
+
+![image](Documents-2.png)
+
+3. A continuació triar els membres. 
+
+![image](Documents-3.png)
+
+4. I per finalitza escollir els permisos que asignarem al membre. 
+
+![image](Documents-4.png)
