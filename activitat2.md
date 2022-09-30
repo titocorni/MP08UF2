@@ -64,6 +64,11 @@ Per instal·lar MariaDB utilitzarem la comanda : `sudo apt-get install mariadb-s
 
 ![image](inst-mariadb-1.png)
 
-Seguidament la configurarem mitjançant la comanda `sudo mysql_secure_installation`per tal de deshabilitar els usuaris anònims, l'accés remot com a root, eliminar les bases de dades i accessos a aquestes i actualitzar les taules de privilegis.
+Seguidament la configurarem mitjançant la comanda `sudo mysql_secure_installation` per tal de deshabilitar els usuaris anònims, l'accés remot com a root, eliminar les bases de dades i accessos a aquestes i actualitzar les taules de privilegis.
 
 ![image](inst-mariadb-2.png)
+
+Per últim reiniciem el servidor MariaDB mitjançant la comanda `sudo systemctl restart mariadb.service` o `sudo service mariadb.service restart`
+
+# Creació de la DB d'OwnCloud
+
