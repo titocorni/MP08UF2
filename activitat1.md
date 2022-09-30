@@ -69,20 +69,20 @@ També podem enregistrar videotrucades de Meet i tenim una VPN per a Android i i
 
 ![image](Backup-3.png)
 
-4. I per finalitzar, escollim els permisos que asignarem al membre. 
+4. I per finalitzar, escollim els permissos que asignarem al membre. 
 
 ![image](Backup-4.png)
 
 
 
 
-# Documents
+## Documents
 
-1. El primer pas sira anar a on passa (Nou).
+1. El primer pas serà anar a on posa "Nou".
 
 ![image](Documents-1.png)
 
-2. El següent sira posa el nom.
+2. El següent serà escriure el nom.
 
 ![image](Documents-2.png)
 
@@ -90,6 +90,44 @@ També podem enregistrar videotrucades de Meet i tenim una VPN per a Android i i
 
 ![image](Documents-3.png)
 
-4. I per finalitza escollir els permisos que asignarem al membre. 
+4. I per finalitzar escollir els permissos que asignarem al membre. 
 
 ![image](Documents-4.png)
+
+
+
+
+# Instal·lació d'adreces
+
+## Administrador/a
+
+El primer pas serà afegir un compte de google en el vostre sistema operatiu Linux.
+
+![image](admin-1.png)
+
+El següent pas serà entrar a on està el compte creat anteriorment. 
+
+![image](admin-2.png)
+
+A continuació serà entrar en la carpeta "La meva unitat".
+
+![image](admin-3.png)
+
+Ara haurem de crear una carpeta.
+
+![image](admin-4.png)
+
+I per finalitzar arrossegarem la carpeta creada al compte creat.
+
+![image](admin-5.png)
+
+I ja ho tindriem. 
+
+![image](admin-6.png)
+
+
+
+
+## Usuari/a
+
+![image](user-1.png)
