@@ -45,4 +45,7 @@ Amb ell, qualsevol usuari amb un compte pot pujar informació i se sincronitzar�
 
 Primerament instal·larem Apache, un servidor web HTTP. La funcionalitat principal d'aquest servei web és servir als usuaris tots els fitxers necessaris per visualitzar el web.
 
-Primerament, mitjançant la comanda `sudo apt install apache2`
+Primerament, mitjançant la comanda `sudo apt install apache2` instal·larem el servidor Apache.
+
+	![image](inst-apache-1.png)
+  
