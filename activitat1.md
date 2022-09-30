@@ -57,5 +57,5 @@ També podem enregistrar videotrucades de Meet i tenim una VPN per a Android i i
 
 ## Backup
 
-
+![El primer pas serà clicar a nou](Backup-1.png)
 
