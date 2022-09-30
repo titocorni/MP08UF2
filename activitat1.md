@@ -131,3 +131,26 @@ I ja ho tindriem.
 ## Usuari/a
 
 ![image](user-1.png)
+
+
+
+
+# Exemples d’ús de fer un backup per part de l’administrador/a
+
+![image](us-backup.png)
+
+
+
+
+# Exemples d’ús de consultar un document per part de l’usuari/a
+
+![image](us-document.png)
+
+
+
+
+# Comproveu si un usuari/a pot eliminar sense voler algun document
+
+No, no pot eliminar perquè no té permisos.
+
+![image](no-borra.png)
