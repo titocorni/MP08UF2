@@ -10,7 +10,7 @@
 # Índex
 * Introducció
 * Requeriments previs
-* 
+* Creació de la màquina virtual
 
 
 
@@ -23,6 +23,7 @@ Amb ell, qualsevol usuari amb un compte pot pujar informació i se sincronitzar�
 
 
 
+# Requerimetns previs
 
 | Plataforma | Opcions |
 | ----------- | ----------- |
