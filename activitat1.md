@@ -153,4 +153,4 @@ I ja ho tindriem.
 
 No, no pot eliminar perquè no té permisos.
 
-![image](no-borra.png)
+![image](no-elimina.png)
