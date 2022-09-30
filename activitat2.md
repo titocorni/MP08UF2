@@ -47,5 +47,9 @@ Primerament instal·larem Apache, un servidor web HTTP. La funcionalitat princip
 
 Primerament, mitjançant la comanda `sudo apt install apache2` instal·larem el servidor Apache.
 
-	![image](inst-apache-1.png)
+![image](inst-apache-1.png)
+
+Seguidament desactivem el llistat de directoris del servidor per a que no es pugui veure mitjançant la comanda : `sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf`
+
+![image](inst-apache-2.png)
   
